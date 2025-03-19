@@ -193,6 +193,10 @@ ul.row {
 	padding: 0.5rem;
 }
 
+.card-category {
+  color: var(--color-primary);
+}
+
 .card-services .card-title {
 	margin: 0;
 }
